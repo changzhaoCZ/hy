@@ -1,601 +1,601 @@
-  - DOMAIN,eaasserts-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN,originasserts.akamaized.net,🎮 游戏平台
-  - DOMAIN,dlgarenanow-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN,gog.salesmanago.com,🎮 游戏平台
-  - DOMAIN,f3b7q2p3.ssl.hwcdn.net,🎮 游戏平台
-  - DOMAIN,steammobile.akamaized.net,🎮 游戏平台
-  - DOMAIN,steampipe-kr.akamaized.net,🎮 游戏平台
-  - DOMAIN,steampipe-partner.akamaized.net,🎮 游戏平台
-  - DOMAIN,xz.pphimalayanrt.com,🎮 游戏平台
-  - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,🎮 游戏平台
-  - DOMAIN,login.live.com,🎮 游戏平台
-  - DOMAIN,logincdn.msauth.net,🎮 游戏平台
-  - DOMAIN,store-images.s-microsoft.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battle.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,blizzard.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlenet.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlenet.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,blizzard.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,blizzard.nefficient.co.kr,🎮 游戏平台
-  - DOMAIN-SUFFIX,blizzardgames.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,blizzardgearstore.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,blz-contentstack.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,blz.nosdn.127.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,blznav.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,blzstatic.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,bnet.163.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,bnetshopus.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,di.res.netease.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,diablo3.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,diablo3.nosdn.127.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,diabloimmortal.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,firesidegatherings.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,hearthstone.nosdn.127.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,heroes.nos.netease.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,heroesofthestorm.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,overwatch.nosdn.127.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,playhearthstone.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,playoverwatch.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,playwarcraft3.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,sc2.nosdn.127.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,starcraft.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,starcraft2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,worldofwarcraft.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wow.nosdn.127.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,wowchina.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,anthemgame.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,anthemthegame.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,apexlegends.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,awayoutgame.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefield.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefield1943.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefield3.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefield4.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefield5.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefieldbadcompany2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefieldheroes.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefieldv.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefront2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlefrontii.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlelog.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,bejeweledstars.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,bejewled-stars.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,bioware.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,biowarestore.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,blackboxgames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,camelot-europe.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,camelotherald.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,camelotherald.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,capitalgames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,chillingo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,cncrivals.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,commandandconquer.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,conquerwithcharacter.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,crysis.jp,🎮 游戏平台
-  - DOMAIN-SUFFIX,daoc.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,darkageofcamelot.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,darkness-risen.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dawngate.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dawngatechronicles.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,deadspacegame.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dice.se,🎮 游戏平台
-  - DOMAIN-SUFFIX,dicela.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dicela.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,dragonage.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dragonagekeep.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dragonagemovie.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dungeonkeeper.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,dungeonkeeper.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dungeonkeeper.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,ea-anz-press.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ea.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ea.tt.omtrdc.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,eaaccess.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eaassets-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,eablackbox.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eacashcard.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eacodigos.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eafootballworld.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eakorea.co.kr,🎮 游戏平台
-  - DOMAIN-SUFFIX,eamirrorsedge.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eamobile.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eamythic.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eamythic.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,eanordic.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eaplay.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,easports.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,easports.jp,🎮 游戏平台
-  - DOMAIN-SUFFIX,easportsactive.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,easportsactiveonline.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,easportsfootball.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,easportsfootballclub.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,easportsmma.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,easportsworld.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eastore.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,electronicarts.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,electronicarts.fr,🎮 游戏平台
-  - DOMAIN-SUFFIX,fifastreet.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,fifastreet3.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,frostbite.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,futpromos.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,futunited.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ghostgames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,heroesofdragonage.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,hutpromos.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,industrialtoys.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,lordofultima.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,maddenchampionship.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,maddenrewards.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,maddenseason.info,🎮 游戏平台
-  - DOMAIN-SUFFIX,maddenseason.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,maddenseason.org,🎮 游戏平台
-  - DOMAIN-SUFFIX,masseffect.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,masseffectarchives.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,maxis.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mirrorsedge.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mirrorsedge.jp,🎮 游戏平台
-  - DOMAIN-SUFFIX,mirrorsedge.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,mirrorsedge2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mirrorsedge2d.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mysims.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mysimsracing.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mythicentertainment.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mythicentertainment.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,mythicgames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeed.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedboost.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeeddriftkings.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedeliminator.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedlightning.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedoverdrive.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedproven.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedredline.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedshowdown.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedstreetkings.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedtakedown.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedtherun.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedtimeattack.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,needforspeedundergroundeast.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nfsworld.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,origin-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,origin.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,origin.tv,🎮 游戏平台
-  - DOMAIN-SUFFIX,plantsvszombies2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,play4free.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,playapex.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pogo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pogobeta.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,popcap.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,projectapex.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pvzgw2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pvzheroes.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,seaofsolitude.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,simcity-buildit.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,simcity.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,skate2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,spearhead.kr,🎮 游戏平台
-  - DOMAIN-SUFFIX,speedhunters.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,spore.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ssx3.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,starwarsbattlefront.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,starwarsbattlefront2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,starwarsfallenorder.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,starwarsjedifallenorder.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,starwarstheoldrepublic.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,swjedifallenorder.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,swjfo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,swtor.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,swtor.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,teamneedforspeed.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,thedreadwolfrises.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,thesims.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,thesims3.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,thesims4.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,thesimssocial.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,tiberiumalliances.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,tiburon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,titanfall.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,tnt-ea.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ultimaforever.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ultimaonline.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,unravel2.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,unraveltwo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,uo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,uoherald.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,visceralgames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xdsummit.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,yogify.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,battlebreakers.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,eac-cdn.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,easy.ac,🎮 游戏平台
-  - DOMAIN-SUFFIX,easyanticheat.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,epicgames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,epicgames.dev,🎮 游戏平台
-  - DOMAIN-SUFFIX,fortnite.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,helpshift.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,paragon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,playparagon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,roborecall.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,shadowcomplex.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,spyjinx.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,unrealengine.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,unrealtournament.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,sony.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.co.id,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.co.th,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.live,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.my,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.ph,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.sg,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.tv,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.tw,🎮 游戏平台
-  - DOMAIN-SUFFIX,garena.vn,🎮 游戏平台
-  - DOMAIN-SUFFIX,garenanow.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,seagroup.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,gog-statics.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,gog.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,gog.qtlglb.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,100classicbooks.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ac-pocketcamp.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,amiibo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ayudanintendo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,bowsersinsidestory.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dialga.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,diddykongracing.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dkr.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,donkeykongcountryreturns.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,drmario-world.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,excitebots.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,fire-emblem-heroes.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,fireemblemawakening.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,flipnotestudio.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,giratina.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,gloryofheracles.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,hackyourconsole.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,kirbysepicyarn.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,kirbysuperstarultra.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,kyurem.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,legendofzelda.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,legendofzelda.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,marioandluigidreamteam.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mariobroswii.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mariokart.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,mariokart.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,mariokart7.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mariokart8.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mariosupersluggers.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,miitomo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,miitomo.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,miiverse.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nentindo.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,newsupermariobrosu.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo-europe-sales.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo-europe.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.at,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.be,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.ch,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.co.jp,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.co.kr,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.co.uk,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.co.za,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.com.au,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.com.hk,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.com.pt,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.de,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.dk,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.es,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.eu,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.fi,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.fr,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.it,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.jp,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.nl,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.no,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.pt,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.ru,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.se,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo.tw,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendo3ds.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendodsi.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendoeurope.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendolabo.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendonetwork.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendonyc.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendostore.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendoswitch.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendoswitch.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendoswitch.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendoswitch.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendoswitchtogether.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendowifi.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,nintendowii.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,personaltrainermath.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,playnintendo.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokedex3d.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemon-moon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemon-sun.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemon-sunmoon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonbank.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonblackwhite.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonbw.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonchampionships.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemongoldsilver.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonhome.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonletsgoeevee.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonletsgopikachu.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonmysterydungeon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonpicross.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonplatinum.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonrubysapphire.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonsunmoon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonswordshield.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonultrasunmoon.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonvgc.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pokemonwifi.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,splatoon2tournament.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,starfox.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,supermario.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,supermario3dworld.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,supermariobros.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,supermariogalaxy.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,supermariorun.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,superpapermario.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,supersmashbros.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,supersmashbros.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,thelegendarystarfy.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,thewonderful101.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wariolandshakeit.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wariowarediy.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wii-u.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wiifit.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wiifitu.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wiipartyu.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wiisports.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wiisportsresort.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wiiugamepad.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wiivc.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,xenoblade.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,yoshisnewisland.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,op.gg,🎮 游戏平台
-  - DOMAIN-SUFFIX,opgg-static.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,playstation.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,playstation.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,playstationnetwork.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp,🎮 游戏平台
-  - DOMAIN-SUFFIX,omotenashi.cygames.jp,🎮 游戏平台
-  - DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,championshipseriesleague.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,convrgencegame.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,historyofdota.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,historyofdota.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,historyofdota.org,🎮 游戏平台
-  - DOMAIN-SUFFIX,instituteofwar.org,🎮 游戏平台
-  - DOMAIN-SUFFIX,lcsmerch.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,leaguehighschool.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegends.ca,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegends.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegends.co.kr,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegends.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegends.info,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegends.kr,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegends.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegends.org,🎮 游戏平台
-  - DOMAIN-SUFFIX,leagueoflegendsscripts.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,leaguesharp.info,🎮 游戏平台
-  - DOMAIN-SUFFIX,leaguoflegends.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,learnwithleague.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,lol-europe.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolclub.org,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolespor.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolesports.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolfanart.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolpcs.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolshop.co.kr,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolstatic-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolstatic.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,lolusercontent.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,lpl.com.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,molesports.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,playvalorant.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,pvp.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,pvp.tv,🎮 游戏平台
-  - DOMAIN-SUFFIX,rgpub.io,🎮 游戏平台
-  - DOMAIN-SUFFIX,riot-games.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,riot.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,riot.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotcdn.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotforgegames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotgames.co.kr,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotgames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotgames.info,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotgames.jp,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotgames.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotgames.tv,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotpin.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,riotpoints.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,rstatic.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,ruinedking.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,supremacy.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,supremacy.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,ulol.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,rockstargames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,rsg.sc,🎮 游戏平台
-  - DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,csgo.wmsj.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,dl.steam.clngaa.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dl.steam.ksyna.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,dota2.wmsj.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,fanatical.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,humblebundle.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,playartifact.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,s.team,🎮 游戏平台
-  - DOMAIN-SUFFIX,st.dl.bscstorage.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,st.dl.eccdnx.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,st.dl.pinyuncloud.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam-api.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam-chat.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam.apac.qtlglb.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam.cdn.on.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam.cdn.webra.ru,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam.eca.qtlglb.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam.naeu.qtlglb.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steam.ru.qtlglb.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steambroadcast.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamcommunity.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamcontent.tnkjmec.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamdeck.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamgames.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steampipe.akamaized.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steampowered.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamstat.us,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamstatic.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamstatic.com.8686c.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamunlocked.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamvideo-a.akamaihd.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,underlords.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,valvesoftware.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,wmsjsteam.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamchina.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamcontent.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steampowered.com.8686c.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamserver.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,steamusercontent.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,brawlstars.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,brawlstarsgame.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ubi.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,ubisoft.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,uplay.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,beth.games,🎮 游戏平台
-  - DOMAIN-SUFFIX,bethesda.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,bethesdagamestudios.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,bethsoft.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,callersbane.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,doom.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,elderscrolls.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,forzamotorsport.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,forzaracingchampionship.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,forzarc.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,gamepass.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,minecraft.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,minecraftshop.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,mojang.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,msgamestudios.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,orithegame.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,renovacionxboxlive.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,tellmewhygame.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbox.co,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbox.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbox.eu,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbox.org,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbox360.co,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbox360.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbox360.eu,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbox360.org,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxab.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxab.net,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxgamepass.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxgamestudios.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxlive.cn,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxlive.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxone.co,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxone.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxone.eu,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxplayanywhere.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxservice.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxservices.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xboxstudios.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,xbx.lv,🎮 游戏平台
-  - DOMAIN-KEYWORD,epicgames,🎮 游戏平台
-  - DOMAIN-KEYWORD,steambroadcast,🎮 游戏平台
-  - DOMAIN-KEYWORD,steamstore,🎮 游戏平台
-  - DOMAIN-KEYWORD,steamuserimages,🎮 游戏平台
-  - IP-CIDR,182.162.135.1/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,210.242.235.6/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,24.105.30.129/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,54.94.196.47/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,182.162.132.1/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,182.162.116.1/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,202.9.67.59/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,203.69.111.4/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,54.207.104.145/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,35.192.0.0/12,🎮 游戏平台,no-resolve
-  - IP-CIDR,203.66.81.98/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,211.234.110.1/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,54.207.107.12/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,103.4.114.233/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,202.9.67.254/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,222.231.22.1/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,13.210.25.233/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,13.212.170.102/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,13.212.171.212/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,15.161.130.86/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,15.254.1.17/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,162.62.33.45/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,162.62.33.70/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,162.62.34.10/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,18.141.176.65/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,18.156.137.147/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,18.231.148.103/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,3.1.80.68/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,3.25.190.152/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,3.82.147.36/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,34.220.160.16/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,35.154.64.7/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,35.72.32.125/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,52.13.150.128/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,52.13.42.120/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,52.50.131.212/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,54.207.168.84/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,54.248.64.192/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,103.4.115.248/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,137.221.105.2/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,185.60.112.157/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,185.60.112.158/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,185.60.114.159/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,210.71.148.11/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,211.115.104.1/32,🎮 游戏平台,no-resolve
-  - IP-CIDR,24.105.62.129/32,🎮 游戏平台,no-resolve
-  - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,cdn-ws.content.steamchina.com,🎮 游戏平台
-  - DOMAIN,csgo.wmsj.cn,🎮 游戏平台
-  - DOMAIN,dl.steam.clngaa.com,🎮 游戏平台
-  - DOMAIN,dl.steam.ksyna.com,🎮 游戏平台
-  - DOMAIN,dota2.wmsj.cn,🎮 游戏平台
-  - DOMAIN,st.dl.bscstorage.net,🎮 游戏平台
-  - DOMAIN,st.dl.eccdnx.com,🎮 游戏平台
-  - DOMAIN,st.dl.pinyuncloud.com,🎮 游戏平台
-  - DOMAIN,steampipe.steamcontent.tnkjmec.com,🎮 游戏平台
-  - DOMAIN,steamstatic.com.8686c.com,🎮 游戏平台
-  - DOMAIN,wmsjsteam.com,🎮 游戏平台
-  - DOMAIN-SUFFIX,cm.steampowered.com,🎮 游戏平台
+DOMAIN,eaasserts-a.akamaihd.net
+DOMAIN,originasserts.akamaized.net
+DOMAIN,dlgarenanow-a.akamaihd.net
+DOMAIN,gog.salesmanago.com
+DOMAIN,f3b7q2p3.ssl.hwcdn.net
+DOMAIN,steammobile.akamaized.net
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
+DOMAIN,login.live.com
+DOMAIN,logincdn.msauth.net
+DOMAIN,store-images.s-microsoft.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,blizzard.cn
+DOMAIN-SUFFIX,blizzard.nefficient.co.kr
+DOMAIN-SUFFIX,blizzardgames.cn
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,blz.nosdn.127.net
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+DOMAIN-SUFFIX,blznav.akamaized.net
+DOMAIN-SUFFIX,blzstatic.cn
+DOMAIN-SUFFIX,bnet.163.com
+DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
+DOMAIN-SUFFIX,bnetshopus.akamaized.net
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,di.res.netease.com
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diablo3.nosdn.127.net
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,hearthstone.nosdn.127.net
+DOMAIN-SUFFIX,heroes.nos.netease.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,overwatch.nosdn.127.net
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,sc2.nosdn.127.net
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,worldofwarcraft.com
+DOMAIN-SUFFIX,wow.nosdn.127.net
+DOMAIN-SUFFIX,wowchina.com
+DOMAIN-SUFFIX,anthemgame.com
+DOMAIN-SUFFIX,anthemthegame.com
+DOMAIN-SUFFIX,apexlegends.com
+DOMAIN-SUFFIX,awayoutgame.com
+DOMAIN-SUFFIX,battlefield.com
+DOMAIN-SUFFIX,battlefield1943.com
+DOMAIN-SUFFIX,battlefield3.com
+DOMAIN-SUFFIX,battlefield4.com
+DOMAIN-SUFFIX,battlefield5.com
+DOMAIN-SUFFIX,battlefieldbadcompany2.com
+DOMAIN-SUFFIX,battlefieldheroes.com
+DOMAIN-SUFFIX,battlefieldv.com
+DOMAIN-SUFFIX,battlefront2.com
+DOMAIN-SUFFIX,battlefrontii.com
+DOMAIN-SUFFIX,battlelog.com
+DOMAIN-SUFFIX,bejeweledstars.com
+DOMAIN-SUFFIX,bejewled-stars.com
+DOMAIN-SUFFIX,bioware.com
+DOMAIN-SUFFIX,biowarestore.com
+DOMAIN-SUFFIX,blackboxgames.com
+DOMAIN-SUFFIX,camelot-europe.com
+DOMAIN-SUFFIX,camelotherald.com
+DOMAIN-SUFFIX,camelotherald.net
+DOMAIN-SUFFIX,capitalgames.com
+DOMAIN-SUFFIX,chillingo.com
+DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
+DOMAIN-SUFFIX,cncrivals.com
+DOMAIN-SUFFIX,commandandconquer.com
+DOMAIN-SUFFIX,conquerwithcharacter.com
+DOMAIN-SUFFIX,crysis.jp
+DOMAIN-SUFFIX,daoc.net
+DOMAIN-SUFFIX,darkageofcamelot.com
+DOMAIN-SUFFIX,darkness-risen.com
+DOMAIN-SUFFIX,dawngate.com
+DOMAIN-SUFFIX,dawngatechronicles.com
+DOMAIN-SUFFIX,deadspacegame.com
+DOMAIN-SUFFIX,dice.se
+DOMAIN-SUFFIX,dicela.com
+DOMAIN-SUFFIX,dicela.net
+DOMAIN-SUFFIX,dragonage.com
+DOMAIN-SUFFIX,dragonagekeep.com
+DOMAIN-SUFFIX,dragonagemovie.com
+DOMAIN-SUFFIX,dungeonkeeper.cn
+DOMAIN-SUFFIX,dungeonkeeper.com
+DOMAIN-SUFFIX,dungeonkeeper.com.cn
+DOMAIN-SUFFIX,ea-anz-press.com
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,ea.tt.omtrdc.net
+DOMAIN-SUFFIX,eaaccess.com
+DOMAIN-SUFFIX,eaassets-a.akamaihd.net
+DOMAIN-SUFFIX,eablackbox.com
+DOMAIN-SUFFIX,eacashcard.com
+DOMAIN-SUFFIX,eacodigos.com
+DOMAIN-SUFFIX,eafootballworld.com
+DOMAIN-SUFFIX,eakorea.co.kr
+DOMAIN-SUFFIX,eamirrorsedge.com
+DOMAIN-SUFFIX,eamobile.com
+DOMAIN-SUFFIX,eamythic.com
+DOMAIN-SUFFIX,eamythic.net
+DOMAIN-SUFFIX,eanordic.com
+DOMAIN-SUFFIX,eaplay.com
+DOMAIN-SUFFIX,easports.com
+DOMAIN-SUFFIX,easports.jp
+DOMAIN-SUFFIX,easportsactive.com
+DOMAIN-SUFFIX,easportsactiveonline.com
+DOMAIN-SUFFIX,easportsfootball.com
+DOMAIN-SUFFIX,easportsfootballclub.com
+DOMAIN-SUFFIX,easportsmma.com
+DOMAIN-SUFFIX,easportsworld.com
+DOMAIN-SUFFIX,eastore.com
+DOMAIN-SUFFIX,electronicarts.com
+DOMAIN-SUFFIX,electronicarts.fr
+DOMAIN-SUFFIX,fifastreet.com
+DOMAIN-SUFFIX,fifastreet3.com
+DOMAIN-SUFFIX,frostbite.com
+DOMAIN-SUFFIX,futpromos.com
+DOMAIN-SUFFIX,futunited.com
+DOMAIN-SUFFIX,ghostgames.com
+DOMAIN-SUFFIX,heroesofdragonage.com
+DOMAIN-SUFFIX,hutpromos.com
+DOMAIN-SUFFIX,industrialtoys.com
+DOMAIN-SUFFIX,lordofultima.com
+DOMAIN-SUFFIX,maddenchampionship.com
+DOMAIN-SUFFIX,maddenrewards.com
+DOMAIN-SUFFIX,maddenseason.info
+DOMAIN-SUFFIX,maddenseason.net
+DOMAIN-SUFFIX,maddenseason.org
+DOMAIN-SUFFIX,masseffect.com
+DOMAIN-SUFFIX,masseffectarchives.com
+DOMAIN-SUFFIX,maxis.com
+DOMAIN-SUFFIX,mirrorsedge.com
+DOMAIN-SUFFIX,mirrorsedge.jp
+DOMAIN-SUFFIX,mirrorsedge.net
+DOMAIN-SUFFIX,mirrorsedge2.com
+DOMAIN-SUFFIX,mirrorsedge2d.com
+DOMAIN-SUFFIX,mysims.com
+DOMAIN-SUFFIX,mysimsracing.com
+DOMAIN-SUFFIX,mythicentertainment.com
+DOMAIN-SUFFIX,mythicentertainment.net
+DOMAIN-SUFFIX,mythicgames.com
+DOMAIN-SUFFIX,needforspeed.com
+DOMAIN-SUFFIX,needforspeedboost.com
+DOMAIN-SUFFIX,needforspeeddriftkings.com
+DOMAIN-SUFFIX,needforspeedeliminator.com
+DOMAIN-SUFFIX,needforspeedlightning.com
+DOMAIN-SUFFIX,needforspeedoverdrive.com
+DOMAIN-SUFFIX,needforspeedproven.com
+DOMAIN-SUFFIX,needforspeedredline.com
+DOMAIN-SUFFIX,needforspeedshowdown.com
+DOMAIN-SUFFIX,needforspeedstreetkings.com
+DOMAIN-SUFFIX,needforspeedtakedown.com
+DOMAIN-SUFFIX,needforspeedtherun.com
+DOMAIN-SUFFIX,needforspeedtimeattack.com
+DOMAIN-SUFFIX,needforspeedundergroundeast.com
+DOMAIN-SUFFIX,nfsworld.com
+DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,origin.tv
+DOMAIN-SUFFIX,plantsvszombies2.com
+DOMAIN-SUFFIX,play4free.com
+DOMAIN-SUFFIX,playapex.com
+DOMAIN-SUFFIX,pogo.com
+DOMAIN-SUFFIX,pogobeta.com
+DOMAIN-SUFFIX,popcap.com
+DOMAIN-SUFFIX,projectapex.com
+DOMAIN-SUFFIX,pvzgw2.com
+DOMAIN-SUFFIX,pvzheroes.com
+DOMAIN-SUFFIX,seaofsolitude.com
+DOMAIN-SUFFIX,simcity-buildit.com
+DOMAIN-SUFFIX,simcity.com
+DOMAIN-SUFFIX,skate2.com
+DOMAIN-SUFFIX,spearhead.kr
+DOMAIN-SUFFIX,speedhunters.com
+DOMAIN-SUFFIX,spore.com
+DOMAIN-SUFFIX,ssx3.com
+DOMAIN-SUFFIX,starwarsbattlefront.com
+DOMAIN-SUFFIX,starwarsbattlefront2.com
+DOMAIN-SUFFIX,starwarsfallenorder.com
+DOMAIN-SUFFIX,starwarsjedifallenorder.com
+DOMAIN-SUFFIX,starwarstheoldrepublic.com
+DOMAIN-SUFFIX,swjedifallenorder.com
+DOMAIN-SUFFIX,swjfo.com
+DOMAIN-SUFFIX,swtor.com
+DOMAIN-SUFFIX,swtor.net
+DOMAIN-SUFFIX,teamneedforspeed.com
+DOMAIN-SUFFIX,thedreadwolfrises.com
+DOMAIN-SUFFIX,thesims.com
+DOMAIN-SUFFIX,thesims3.com
+DOMAIN-SUFFIX,thesims4.com
+DOMAIN-SUFFIX,thesimssocial.com
+DOMAIN-SUFFIX,tiberiumalliances.com
+DOMAIN-SUFFIX,tiburon.com
+DOMAIN-SUFFIX,titanfall.com
+DOMAIN-SUFFIX,tnt-ea.com
+DOMAIN-SUFFIX,ultimaforever.com
+DOMAIN-SUFFIX,ultimaonline.com
+DOMAIN-SUFFIX,unravel2.com
+DOMAIN-SUFFIX,unraveltwo.com
+DOMAIN-SUFFIX,uo.com
+DOMAIN-SUFFIX,uoherald.com
+DOMAIN-SUFFIX,visceralgames.com
+DOMAIN-SUFFIX,xdsummit.com
+DOMAIN-SUFFIX,yogify.com
+DOMAIN-SUFFIX,battlebreakers.com
+DOMAIN-SUFFIX,eac-cdn.com
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,fortnite.com
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,playparagon.com
+DOMAIN-SUFFIX,roborecall.com
+DOMAIN-SUFFIX,shadowcomplex.com
+DOMAIN-SUFFIX,spyjinx.com
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,unrealtournament.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
+DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
+DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
+DOMAIN-SUFFIX,garena.co.id
+DOMAIN-SUFFIX,garena.co.th
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,garena.live
+DOMAIN-SUFFIX,garena.my
+DOMAIN-SUFFIX,garena.ph
+DOMAIN-SUFFIX,garena.sg
+DOMAIN-SUFFIX,garena.tv
+DOMAIN-SUFFIX,garena.tw
+DOMAIN-SUFFIX,garena.vn
+DOMAIN-SUFFIX,garenanow.com
+DOMAIN-SUFFIX,seagroup.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog.qtlglb.com
+DOMAIN-SUFFIX,100classicbooks.com
+DOMAIN-SUFFIX,ac-pocketcamp.com
+DOMAIN-SUFFIX,amiibo.com
+DOMAIN-SUFFIX,ayudanintendo.com
+DOMAIN-SUFFIX,bowsersinsidestory.com
+DOMAIN-SUFFIX,dialga.com
+DOMAIN-SUFFIX,diddykongracing.com
+DOMAIN-SUFFIX,dkr.com
+DOMAIN-SUFFIX,donkeykongcountryreturns.com
+DOMAIN-SUFFIX,drmario-world.com
+DOMAIN-SUFFIX,excitebots.com
+DOMAIN-SUFFIX,fire-emblem-heroes.com
+DOMAIN-SUFFIX,fireemblemawakening.com
+DOMAIN-SUFFIX,flipnotestudio.com
+DOMAIN-SUFFIX,giratina.com
+DOMAIN-SUFFIX,gloryofheracles.com
+DOMAIN-SUFFIX,hackyourconsole.com
+DOMAIN-SUFFIX,kirbysepicyarn.com
+DOMAIN-SUFFIX,kirbysuperstarultra.com
+DOMAIN-SUFFIX,kyurem.com
+DOMAIN-SUFFIX,legendofzelda.cn
+DOMAIN-SUFFIX,legendofzelda.com.cn
+DOMAIN-SUFFIX,marioandluigidreamteam.com
+DOMAIN-SUFFIX,mariobroswii.com
+DOMAIN-SUFFIX,mariokart.cn
+DOMAIN-SUFFIX,mariokart.com.cn
+DOMAIN-SUFFIX,mariokart7.com
+DOMAIN-SUFFIX,mariokart8.com
+DOMAIN-SUFFIX,mariosupersluggers.com
+DOMAIN-SUFFIX,miitomo.com
+DOMAIN-SUFFIX,miitomo.com.cn
+DOMAIN-SUFFIX,miiverse.com
+DOMAIN-SUFFIX,nentindo.net
+DOMAIN-SUFFIX,newsupermariobrosu.com
+DOMAIN-SUFFIX,nintendo-europe-sales.com
+DOMAIN-SUFFIX,nintendo-europe.com
+DOMAIN-SUFFIX,nintendo.at
+DOMAIN-SUFFIX,nintendo.be
+DOMAIN-SUFFIX,nintendo.ch
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.co.kr
+DOMAIN-SUFFIX,nintendo.co.uk
+DOMAIN-SUFFIX,nintendo.co.za
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.com.au
+DOMAIN-SUFFIX,nintendo.com.hk
+DOMAIN-SUFFIX,nintendo.com.pt
+DOMAIN-SUFFIX,nintendo.de
+DOMAIN-SUFFIX,nintendo.dk
+DOMAIN-SUFFIX,nintendo.es
+DOMAIN-SUFFIX,nintendo.eu
+DOMAIN-SUFFIX,nintendo.fi
+DOMAIN-SUFFIX,nintendo.fr
+DOMAIN-SUFFIX,nintendo.it
+DOMAIN-SUFFIX,nintendo.jp
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.nl
+DOMAIN-SUFFIX,nintendo.no
+DOMAIN-SUFFIX,nintendo.pt
+DOMAIN-SUFFIX,nintendo.ru
+DOMAIN-SUFFIX,nintendo.se
+DOMAIN-SUFFIX,nintendo.tw
+DOMAIN-SUFFIX,nintendo3ds.com
+DOMAIN-SUFFIX,nintendodsi.com
+DOMAIN-SUFFIX,nintendoeurope.com
+DOMAIN-SUFFIX,nintendolabo.cn
+DOMAIN-SUFFIX,nintendonetwork.net
+DOMAIN-SUFFIX,nintendonyc.com
+DOMAIN-SUFFIX,nintendostore.com
+DOMAIN-SUFFIX,nintendoswitch.cn
+DOMAIN-SUFFIX,nintendoswitch.com
+DOMAIN-SUFFIX,nintendoswitch.com.cn
+DOMAIN-SUFFIX,nintendoswitch.net
+DOMAIN-SUFFIX,nintendoswitchtogether.com
+DOMAIN-SUFFIX,nintendowifi.net
+DOMAIN-SUFFIX,nintendowii.com
+DOMAIN-SUFFIX,personaltrainermath.com
+DOMAIN-SUFFIX,playnintendo.com
+DOMAIN-SUFFIX,pokedex3d.com
+DOMAIN-SUFFIX,pokemon-moon.com
+DOMAIN-SUFFIX,pokemon-sun.com
+DOMAIN-SUFFIX,pokemon-sunmoon.com
+DOMAIN-SUFFIX,pokemon.com
+DOMAIN-SUFFIX,pokemonbank.com
+DOMAIN-SUFFIX,pokemonblackwhite.com
+DOMAIN-SUFFIX,pokemonbw.com
+DOMAIN-SUFFIX,pokemonchampionships.com
+DOMAIN-SUFFIX,pokemongoldsilver.com
+DOMAIN-SUFFIX,pokemonhome.com
+DOMAIN-SUFFIX,pokemonletsgoeevee.com
+DOMAIN-SUFFIX,pokemonletsgopikachu.com
+DOMAIN-SUFFIX,pokemonmysterydungeon.com
+DOMAIN-SUFFIX,pokemonpicross.com
+DOMAIN-SUFFIX,pokemonplatinum.com
+DOMAIN-SUFFIX,pokemonrubysapphire.com
+DOMAIN-SUFFIX,pokemonsunmoon.com
+DOMAIN-SUFFIX,pokemonswordshield.com
+DOMAIN-SUFFIX,pokemonultrasunmoon.com
+DOMAIN-SUFFIX,pokemonvgc.com
+DOMAIN-SUFFIX,pokemonwifi.net
+DOMAIN-SUFFIX,splatoon2tournament.com
+DOMAIN-SUFFIX,starfox.com
+DOMAIN-SUFFIX,supermario.com
+DOMAIN-SUFFIX,supermario3dworld.com
+DOMAIN-SUFFIX,supermariobros.com.cn
+DOMAIN-SUFFIX,supermariogalaxy.com
+DOMAIN-SUFFIX,supermariorun.com
+DOMAIN-SUFFIX,superpapermario.com
+DOMAIN-SUFFIX,supersmashbros.cn
+DOMAIN-SUFFIX,supersmashbros.com.cn
+DOMAIN-SUFFIX,thelegendarystarfy.com
+DOMAIN-SUFFIX,thewonderful101.com
+DOMAIN-SUFFIX,wariolandshakeit.com
+DOMAIN-SUFFIX,wariowarediy.com
+DOMAIN-SUFFIX,wii-u.com
+DOMAIN-SUFFIX,wiifit.com
+DOMAIN-SUFFIX,wiifitu.com
+DOMAIN-SUFFIX,wiipartyu.com
+DOMAIN-SUFFIX,wiisports.com
+DOMAIN-SUFFIX,wiisportsresort.com
+DOMAIN-SUFFIX,wiiugamepad.com
+DOMAIN-SUFFIX,wiivc.net
+DOMAIN-SUFFIX,xenoblade.com
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
+DOMAIN-SUFFIX,yoshisnewisland.com
+DOMAIN-SUFFIX,op.gg
+DOMAIN-SUFFIX,opgg-static.akamaized.net
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+DOMAIN-SUFFIX,omotenashi.cygames.jp
+DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
+DOMAIN-SUFFIX,championshipseriesleague.com
+DOMAIN-SUFFIX,convrgencegame.com
+DOMAIN-SUFFIX,historyofdota.com
+DOMAIN-SUFFIX,historyofdota.net
+DOMAIN-SUFFIX,historyofdota.org
+DOMAIN-SUFFIX,instituteofwar.org
+DOMAIN-SUFFIX,lcsmerch.com
+DOMAIN-SUFFIX,leaguehighschool.com
+DOMAIN-SUFFIX,leagueoflegends.ca
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,leagueoflegends.co.kr
+DOMAIN-SUFFIX,leagueoflegends.com
+DOMAIN-SUFFIX,leagueoflegends.info
+DOMAIN-SUFFIX,leagueoflegends.kr
+DOMAIN-SUFFIX,leagueoflegends.net
+DOMAIN-SUFFIX,leagueoflegends.org
+DOMAIN-SUFFIX,leagueoflegendsscripts.com
+DOMAIN-SUFFIX,leaguesharp.info
+DOMAIN-SUFFIX,leaguoflegends.com
+DOMAIN-SUFFIX,learnwithleague.com
+DOMAIN-SUFFIX,lol-europe.com
+DOMAIN-SUFFIX,lolclub.org
+DOMAIN-SUFFIX,lolespor.com
+DOMAIN-SUFFIX,lolesports.com
+DOMAIN-SUFFIX,lolfanart.net
+DOMAIN-SUFFIX,lolpcs.com
+DOMAIN-SUFFIX,lolshop.co.kr
+DOMAIN-SUFFIX,lolstatic-a.akamaihd.net
+DOMAIN-SUFFIX,lolstatic.com
+DOMAIN-SUFFIX,lolusercontent.com
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,molesports.com
+DOMAIN-SUFFIX,playvalorant.com
+DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,pvp.tv
+DOMAIN-SUFFIX,rgpub.io
+DOMAIN-SUFFIX,riot-games.com
+DOMAIN-SUFFIX,riot.com
+DOMAIN-SUFFIX,riot.net
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotforgegames.com
+DOMAIN-SUFFIX,riotgames.co.kr
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotgames.info
+DOMAIN-SUFFIX,riotgames.jp
+DOMAIN-SUFFIX,riotgames.net
+DOMAIN-SUFFIX,riotgames.tv
+DOMAIN-SUFFIX,riotpin.com
+DOMAIN-SUFFIX,riotpoints.com
+DOMAIN-SUFFIX,rstatic.net
+DOMAIN-SUFFIX,ruinedking.com
+DOMAIN-SUFFIX,supremacy.com
+DOMAIN-SUFFIX,supremacy.net
+DOMAIN-SUFFIX,ulol.com
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,playartifact.com
+DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,steam-api.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steam.apac.qtlglb.com
+DOMAIN-SUFFIX,steam.cdn.on.net
+DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
+DOMAIN-SUFFIX,steam.cdn.webra.ru
+DOMAIN-SUFFIX,steam.eca.qtlglb.com
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
+DOMAIN-SUFFIX,steambroadcast.akamaized.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamcontent.tnkjmec.com
+DOMAIN-SUFFIX,steamdeck.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstat.us
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamstatic.com.8686c.com
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+DOMAIN-SUFFIX,steamunlocked.net
+DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
+DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,valvesoftware.com
+DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steampowered.com.8686c.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,brawlstars.com
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,uplay.com
+DOMAIN-SUFFIX,beth.games
+DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,bethesdagamestudios.com
+DOMAIN-SUFFIX,bethsoft.com
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,elderscrolls.com
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,forzaracingchampionship.com
+DOMAIN-SUFFIX,forzarc.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,msgamestudios.com
+DOMAIN-SUFFIX,orithegame.com
+DOMAIN-SUFFIX,renovacionxboxlive.com
+DOMAIN-SUFFIX,tellmewhygame.com
+DOMAIN-SUFFIX,xbox.co
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xbox.eu
+DOMAIN-SUFFIX,xbox.org
+DOMAIN-SUFFIX,xbox360.co
+DOMAIN-SUFFIX,xbox360.com
+DOMAIN-SUFFIX,xbox360.eu
+DOMAIN-SUFFIX,xbox360.org
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxab.net
+DOMAIN-SUFFIX,xboxgamepass.com
+DOMAIN-SUFFIX,xboxgamestudios.com
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxone.co
+DOMAIN-SUFFIX,xboxone.com
+DOMAIN-SUFFIX,xboxone.eu
+DOMAIN-SUFFIX,xboxplayanywhere.com
+DOMAIN-SUFFIX,xboxservice.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,xboxstudios.com
+DOMAIN-SUFFIX,xbx.lv
+DOMAIN-KEYWORD,epicgames
+DOMAIN-KEYWORD,steambroadcast
+DOMAIN-KEYWORD,steamstore
+DOMAIN-KEYWORD,steamuserimages
+IP-CIDR,182.162.135.1/32,no-resolve
+IP-CIDR,210.242.235.6/32,no-resolve
+IP-CIDR,24.105.30.129/32,no-resolve
+IP-CIDR,54.94.196.47/32,no-resolve
+IP-CIDR,182.162.132.1/32,no-resolve
+IP-CIDR,182.162.116.1/32,no-resolve
+IP-CIDR,202.9.67.59/32,no-resolve
+IP-CIDR,203.69.111.4/32,no-resolve
+IP-CIDR,54.207.104.145/32,no-resolve
+IP-CIDR,35.192.0.0/12,no-resolve
+IP-CIDR,203.66.81.98/32,no-resolve
+IP-CIDR,211.234.110.1/32,no-resolve
+IP-CIDR,54.207.107.12/32,no-resolve
+IP-CIDR,103.4.114.233/32,no-resolve
+IP-CIDR,202.9.67.254/32,no-resolve
+IP-CIDR,222.231.22.1/32,no-resolve
+IP-CIDR,13.210.25.233/32,no-resolve
+IP-CIDR,13.212.170.102/32,no-resolve
+IP-CIDR,13.212.171.212/32,no-resolve
+IP-CIDR,15.161.130.86/32,no-resolve
+IP-CIDR,15.254.1.17/32,no-resolve
+IP-CIDR,162.62.33.45/32,no-resolve
+IP-CIDR,162.62.33.70/32,no-resolve
+IP-CIDR,162.62.34.10/32,no-resolve
+IP-CIDR,18.141.176.65/32,no-resolve
+IP-CIDR,18.156.137.147/32,no-resolve
+IP-CIDR,18.231.148.103/32,no-resolve
+IP-CIDR,3.1.80.68/32,no-resolve
+IP-CIDR,3.25.190.152/32,no-resolve
+IP-CIDR,3.82.147.36/32,no-resolve
+IP-CIDR,34.220.160.16/32,no-resolve
+IP-CIDR,35.154.64.7/32,no-resolve
+IP-CIDR,35.72.32.125/32,no-resolve
+IP-CIDR,52.13.150.128/32,no-resolve
+IP-CIDR,52.13.42.120/32,no-resolve
+IP-CIDR,52.50.131.212/32,no-resolve
+IP-CIDR,54.207.168.84/32,no-resolve
+IP-CIDR,54.248.64.192/32,no-resolve
+IP-CIDR,103.4.115.248/32,no-resolve
+IP-CIDR,137.221.105.2/32,no-resolve
+IP-CIDR,185.60.112.157/32,no-resolve
+IP-CIDR,185.60.112.158/32,no-resolve
+IP-CIDR,185.60.114.159/32,no-resolve
+IP-CIDR,210.71.148.11/32,no-resolve
+IP-CIDR,211.115.104.1/32,no-resolve
+IP-CIDR,24.105.62.129/32,no-resolve
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,dota2.wmsj.cn
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steamstatic.com.8686c.com
+DOMAIN,wmsjsteam.com
+DOMAIN-SUFFIX,cm.steampowered.com
